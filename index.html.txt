@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Swadist Namkeen - Crispy Channa Namkeen</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>SWADIST</h1>
+    <p>Har Bite Mein Swad</p>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2>Crispy Channa Namkeen</h2>
+    <p>Crunchy • Spicy • Delicious</p>
+    <img src="channa.png" alt="Swadist Channa Namkeen">
+    <a href="https://wa.me/919918579142" class="btn">Order on WhatsApp</a>
+  </section>
+
+  <!-- Products -->
+  <section class="products">
+    <h2>Our Products</h2>
+    <div class="product-card">
+      <img src="channa.png" alt="Channa Namkeen">
+      <h3>Channa Namkeen</h3>
+      <p>100g - ₹70 <br> 200g - ₹120</p>
+      <a href="https://wa.me/919918579142" class="btn">Buy Now</a>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section class="about">
+    <h2>About Swadist</h2>
+    <p>
+      At Swadist, we bring you authentic Indian flavors made with 
+      love and hygiene. Our Channa Namkeen is crunchy, spicy, and 
+      preservative-free – perfect for every snack lover.
+    </p>
+  </section>
+
+  <!-- Contact -->
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>📍 Khargupur Bazar, Gonda</p>
+    <p>📞 +91-XXXXXXXXXX</p>
+    <p>✉ support@swadistfoods.com</p>
+    <a href="https://wa.me/919918579142" class="btn">Chat on WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Swadist Foods | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
